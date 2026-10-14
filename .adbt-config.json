@@ -1,0 +1,8 @@
+{
+  "project": {
+    "identifier": "firetv-ai-learning-companion"
+  },
+  "platform": {
+    "default": "both"
+  }
+}
